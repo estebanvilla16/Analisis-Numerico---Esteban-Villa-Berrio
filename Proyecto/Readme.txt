@@ -1,0 +1,1 @@
+Carpeta con la informacion general de los/el proyecto realizado a lo largo del semestre
